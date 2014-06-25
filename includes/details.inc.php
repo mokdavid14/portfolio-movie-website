@@ -19,29 +19,29 @@
 
             <div id="whoAndwhat" class="overlay color-block">
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Release Date</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> July 16 2010</p></div>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Release Date</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> July 16 2010</p></div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Rating</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> PG-13</p></div>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Rating</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> PG-13</p></div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Genre</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> Action, Science Fiction, Thriller</p></div>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Genre</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> Action, Science Fiction, Thriller</p></div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Running Time</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> 148 mins</p></div>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Running Time</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> 148 mins</p></div>
               </div>
               <br>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Director</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> Christopher Nolan</p></div>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Director</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> Christopher Nolan</p></div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-3 col-lg-2"><span class="label">Cast</span></div>
-                <div class="col-xs-9 col-sm-10 col-md-9 col-lg-10"><p> Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt, Marion Cotillard, Ken Watanabe, Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, Michael Caine</p>
+                <div class="col-xs-4 col-sm-2 col-md-3 col-lg-2"><span class="label">Cast</span></div>
+                <div class="col-xs-8 col-sm-10 col-md-9 col-lg-10"><p> Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt, Marion Cotillard, Ken Watanabe, Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, Michael Caine</p>
               </div>
               </div>
               
