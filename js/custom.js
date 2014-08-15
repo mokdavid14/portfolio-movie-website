@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+	// Disclaimer only appears on first visit
 	if(typeof(Storage) !== "undefined") {
 	    var firstVisit = sessionStorage["firstMovieVisit"];
 
@@ -12,7 +13,7 @@ $(document).ready(function(){
 		}
 	}
 	
-
+	// Smooth Scrolling
 	!function ($) {
 		$('a[href^="#"]:not([data-toggle]):not([data-slide])').bind('click.smoothscroll',function (e) {
 		    e.preventDefault();
