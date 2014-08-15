@@ -17,6 +17,8 @@ function initialize(){
     var map = new google.maps.Map(document.getElementById("map-canvas"),
         mapOptions);
 
+    var image = 'images/cinema.png';
+
     infowindow = new google.maps.InfoWindow();
 
 
@@ -25,6 +27,7 @@ function initialize(){
         marker = new google.maps.Marker({
             position: new google.maps.LatLng(cinemas[i][1],cinemas[i][2]),
             map: map,
+            icon: image,
             title:"Event Cinemas " + cinemas[i][0],
             zIndex: cinemas[i][3]
           });
@@ -32,7 +35,7 @@ function initialize(){
         google.maps.event.addListener(marker, 'click', (function(marker, i) {
             return function() {
               infowindow.setContent('<div id="content">'+
-              '<h3 id="firstHeading" style="color: #333">Event Cinemas ' + cinemas[i][0] + '</h3>'+
+              '<h4 id="firstHeading" style="color: #333">Event Cinemas ' + cinemas[i][0] + '</h4>'+
               '<div id="bodyContent">'+
               '<p style="color: #333">' + cinemas[i][5] + '</p>'+
               '<a href="' +  cinemas[i][4] + '" target="_blank" >Visit Site </a> ' +
